@@ -1,1 +1,8 @@
 
+Chapter 3
+
+Main results are found in TF-IDF_train_test-combined-FINAL.ipynb.  
+This notebook requires all of the .csv and .txt files found in the Chapter 3 GitHub folder.
+
+The other notebooks generate the results referred to in 3.3.2 of the dissertation. 
+These notebooks require training_data_114_final.csv and congress_stopwords.txt.  
