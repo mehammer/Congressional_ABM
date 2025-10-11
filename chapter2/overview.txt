@@ -3,4 +3,7 @@ Chapter 2
 
 The base model with randomly-assigned agents.
 
-Run with BehaviorSpace.  Three available experiments.  Generated results in Chapter 2 are from "experiment-10run."  Also available are "experiment-5run" and "experiment" (single run).  Number of runs refers to runs per parameter combination. 
+Run with BehaviorSpace.  Three available experiments.  
+Generated results in Chapter 2 are from "experiment-10run."  
+Also available are "experiment-5run" and "experiment" (single run).  
+Number of runs refers to runs per parameter combination. 
