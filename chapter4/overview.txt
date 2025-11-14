@@ -1,0 +1,8 @@
+Chapter 4
+
+Each file contains the number of voter agents, voter types and candidate NOMINATE scores for that specific VA congressional district for replicating the 2020 U.S. House elections.  
+
+Run each model with BehaviorSpace.  Four available experiments:
+	 Results reported for "best parameter combination" in Chapter 4 are from "va0x-10run."
+	 Initial single run parameter sweep for all possible parameter combinations, also referred to in Chapter 4, are generated from "cand sweep simple centers."   
+	 Also available are "va0x-5run" (5-run repetition of best parameter combinations) and "candidate distance" (generates the measures for Chapter 4, Table 24). 
