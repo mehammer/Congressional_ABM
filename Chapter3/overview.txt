@@ -1,1 +1,7 @@
+Chapter 3
+  
+Cross-validation and hyperparameter tuning: Use RF_SVD_NestedCV.ipynb (Random Forest) and Unreduced_models_NestedCV_final.ipynb (other regression models).  
 
+Validation data and candidate predictions: Use RandomForest_REDUCED_SVD_validation_test.ipynb (Random Forest) and Unreduced_models_validation_test.ipynb (other regression models).  These notebooks generate the validation data and candidate prediction results referred to in 3.3 of the dissertation.  
+
+These notebooks require the training dataset, 116incCR1.txt (validation data), 116cand.csv (candidate data),  and congress_stopwords.py.  See README.pdf for instructions for training data.  
