@@ -3,7 +3,7 @@ Github repository for Michael Hammer's dissertation on simulating U.S. Congressi
 
 Instructions for running each model are in the chapter folder in the overview.txt file.
 
-Chapter 2: Mdoel and instructions are available for the "base model" discussed in Chapter 2.
+Chapter 2: Model and instructions are available for the "base model" discussed in Chapter 2.
 
 Chapter 3: Jupyter notebooks, files, and instructions for the text analysis machine learning models discussed in Chapter 3. Instructions for acquiring training dataset can be found in the README.pdf file in the Chapter 3 folder. 
 
